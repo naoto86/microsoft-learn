@@ -11,3 +11,9 @@ https://docs.microsoft.com/ja-jp/learn/
 ### 気づき
 
 tsconfig.json を書き換えた時は「tsc」コマンド打たないと設定が上書きされない。普段あんまやあらないからなぁ・・。
+
+## [TypeScript を使用して JavaScript アプリケーションをビルドする](https://docs.microsoft.com/ja-jp/learn/paths/build-javascript-applications-typescript/)
+
+### 気づき
+
+enum と型アサーションの使い所がわかった。
