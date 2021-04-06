@@ -17,3 +17,10 @@ tsconfig.json を書き換えた時は「tsc」コマンド打たないと設定
 ### 気づき
 
 enum と型アサーションの使い所がわかった。
+
+## [TypeScript でのインターフェイスの実装](https://docs.microsoft.com/ja-jp/learn/modules/typescript-implement-interfaces/)
+
+### 気づき
+
+interface と type の違いがよくわかった。
+node のライブラリー作成の際の型定義に使えるってこういううことかぁ。。。
