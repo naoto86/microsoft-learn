@@ -24,3 +24,10 @@ enum と型アサーションの使い所がわかった。
 
 interface と type の違いがよくわかった。
 node のライブラリー作成の際の型定義に使えるってこういううことかぁ。。。
+
+## [TypeScript を使用して型指定された関数を開発する](https://docs.microsoft.com/ja-jp/learn/modules/typescript-develop-typed-functions/)
+
+### 気づき
+
+名前付き関数と匿名関数の違い。でも匿名関数て違和感ある呼び方だなぁ。。。
+rest パラメーター便利そう！使っていきたい。
